@@ -1,0 +1,30 @@
+html {
+	background: green;
+	margin: 30px;
+	}
+h1 {
+	text-align: center;
+	color: red;
+	
+	}
+p {
+	text-align: center;
+	}
+#doit {
+	color: red;
+	}
+a {
+	color: white;
+	size: 50px;
+	}
+#manifesto {
+	margin-left: 60px;
+	margin-right: 60px;
+	}
+.letter {
+	column-count: 1;
+	text-align: left;
+	}
+#sig {
+	font-family: cursive;
+	}
